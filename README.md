@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -67,3 +68,7 @@ export default tseslint.config([
   },
 ])
 ```
+=======
+# Madean-Hive
+Madean Hive  Frontend (Minor Project ).
+>>>>>>> f5e6dda873d8fd5cc53b0d127cffbfbef1853059
